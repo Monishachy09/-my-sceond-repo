@@ -40,7 +40,7 @@ border-radius: 5px;
 .experiance-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: 0 250px;
 }
 .experiance-iteam{
     width: 40%;
